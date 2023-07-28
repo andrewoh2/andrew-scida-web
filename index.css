@@ -1,0 +1,99 @@
+* { font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 0;
+}
+body {
+    background-color:#d8d8d8;
+}
+header {
+    background-color: #c4340c;
+    height: 80px;
+
+}
+.headshot {
+    width: 30px;
+    padding-left: 20px;
+}
+.name{
+    color: white;
+    position: relative;
+    left: 100px;
+    top: 24px;
+    padding: 5px;
+}
+
+nav {
+    float: right;
+}
+nav a {
+	color: white;
+    text-decoration: none;
+    padding: 15px;
+
+   
+}
+main {
+    max-width: 80%;
+    margin: auto;
+    margin-top: 20px;
+}
+ .hero {
+    border-radius: 4px;
+    max-width: 35%;
+}
+div.main-content {
+    float: right;
+    max-width: 60%;
+    margin-top: 50px;
+}
+h1 {
+    padding: 10px;
+    padding-left: 0;
+    
+}
+
+.contacth{
+text-align: center;
+}
+
+form{
+    width: 60%;
+    margin: 10px auto;
+}
+input, textarea{
+    margin: 10px;
+}
+
+input[type="text"],textarea{
+    width: 90%;
+    padding: 2px;
+}
+.projecthead, .projectparagraph {
+    text-align: center;
+    padding: 40px;
+}
+.githublogo {
+    max-width: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+footer {
+}
+footer ul {
+    list-style-type: none;
+    margin: 0;
+    margin-right: 20px;
+    
+    
+}
+footer li {
+    display: inline-block;
+    float: right;
+    padding: 10px;
+}
+
+footer img {
+    width: 40px;
+    
+}
