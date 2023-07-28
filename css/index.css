@@ -67,6 +67,16 @@ input[type="text"],textarea{
     width: 90%;
     padding: 2px;
 }
+.projecthead, .projectparagraph {
+    text-align: center;
+    padding: 40px;
+}
+.githublogo {
+    max-width: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
 
 footer {
 }
